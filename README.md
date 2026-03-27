@@ -12,13 +12,13 @@
 
 🎓 Computer Science student at the University of Karachi (BSCS, Class of 2029)  
 💻 Interested in backend development using **C# (.NET)** and **Python (Django)**  
+☁️ Experience with cloud computing, including hosting and managing applications on **AWS**  
 🚀 Focused on building practical, real-world applications and simulation-based systems  
-🌱 Currently working on projects like:  
+
+🌱 Currently working on:  
 - **Karachi Railway System Simulation (C#)**  
 - **Hospital Management System (Django)**  
 - **Mini LMS (Python OOP)**  
-
-📌 Continuously exploring areas like cloud computing and AI-driven development  
 
 💡 I enjoy problem-solving, system design, and improving my development workflow with modern tools.
 
@@ -31,10 +31,10 @@
   <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -55,7 +55,7 @@
 
 - Strengthen backend and system design skills  
 - Gain hands-on industry experience through internships  
-- Continue learning emerging technologies  
+- Continue learning cloud and AI-driven technologies  
 
 ---
 
