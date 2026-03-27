@@ -41,7 +41,7 @@
 
 | Project | Description | Tech Stack |
 |--------|------------|-----------|
-| **FBR PRAL E-Invoicing System** | Developed a professional commercial invoicing system following FBR PRAL standards for handling electronic invoices | Python |
+| **FBR PRAL E-Invoicing System** | Developed a professional commercial invoicing system following FBR PRAL standards for handling electronic invoices | Python, HTML,CSS,JS |
 | **EZ PC (Live Web App)** | Built and deployed a full web application on AWS, handling backend logic and user interaction | Django, Python, AWS |
 | **Karachi Railway Management System** | Simulation-based system implementing queueing models with real-time metrics and user-controlled execution | C#, .NET |
 | **Hospital Management System** | Web app for managing patients, roles, and appointments | Django, Python, SQL |
